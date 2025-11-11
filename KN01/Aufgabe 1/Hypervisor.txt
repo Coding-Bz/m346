@@ -1,0 +1,7 @@
+Was ist ein Hypervisor?
+Ein Hypervisor ist eine Software welches die Fähigkeit hat mehrere virtuelle Maschinen gleichzeitig ausführen kann. Der Hypervisor hat unter andere Kontrolle über mehrere Ressourcen wie zum -beispiel Speicher, CPU und Netzwerk.
+
+Unterschiede
+
+Hypervisor 1 und 2 haben beide die Funktion das sie mehrere VM’s auf einer Festplatte haben können. Welches viele Vorteile mit sich bringt, wie zum Beispiel, dass den Problemen in einem VM einen anderen VM nicht beeinflussen.
+Ein Hypervisor vom Typ 1, auch Bare-Metal-Hypervisor genannt, läuft direkt auf der physischen Hardware und haben so einen direkten Zugriff auf physische Ressourcen. Währendessen. Ist ein Typ-2-Hypervisor eine Virtualisierungstechnologie, die als Anwendung auf einem vorhandenen Betriebssystem ausgeführt wird.
