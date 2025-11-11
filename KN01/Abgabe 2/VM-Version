@@ -1,0 +1,19 @@
+## Untersuchung des Hypervisor-Typs und Ressourcenmanagements
+
+### Erste Vermutung
+Ich vermutete zunächst, dass es sich um einen **Typ-1-Hypervisor** handelt, weil ich davon ausging, dass er direkt auf meiner physischen Festplatte installiert ist und ich im Task-Manager sehen konnte, wie stark er meinen RAM und meine CPU belastet.
+
+### Erkenntnis
+Nach weiteren Überlegungen hat sich jedoch herausgestellt, dass es sich um einen **Typ-2-Hypervisor** handelt.  
+Im Gegensatz zu Typ 1 erlaubt dieser **CPU-Overcommitment** nicht oder nur eingeschränkt.  
+
+Beim Versuch, meiner virtuellen Maschine mehr Prozessoren zuzuweisen, als mein Host-System tatsächlich besitzt, erhielt ich eine **Fehlermeldung**, die mir mitteilte, dass es nicht möglich sei, die VM zu starten, da ich einen höheren Wert ausgewählt hatte, als verfügbar war.
+
+### Verhalten beim Arbeitsspeicher
+Beim **RAM** hingegen war es möglich, mehr Speicher zuzuweisen, als mein Laptop physisch besitzt.  
+Das liegt daran, dass der RAM beim Start nur **reserviert oder simuliert** wird.  
+Der Host kann dabei **Swapping (Auslagerungsdateien)** verwenden, wenn der physische RAM knapp wird.  
+Das ist zwar langsamer, funktioniert aber technisch.
+
+### Screenshots
+
