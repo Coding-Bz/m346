@@ -1,8 +1,9 @@
 KN02:
 
 
-** A)	Umgang mit AWS Kurs (20%) 
+A)	Umgang mit AWS Kurs (20%) 
 Einladung angenommen und Account erstellt.
+//
 B)	Instanz erstellen (40%)
 
 <img width="945" height="483" alt="image" src="https://github.com/user-attachments/assets/81603cfb-ee1b-4371-972d-577baeb34a22" />
