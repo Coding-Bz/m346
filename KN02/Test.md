@@ -1,3 +1,0 @@
-![Project Logo](Memory.png)
-
-../
