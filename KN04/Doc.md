@@ -39,6 +39,7 @@ packages: # Die Packages die installiert werden...
 <img width="2246" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e2684c9-3c5c-401b-aceb-8521c44830cd" />
 
 
+## C) Template (5%)
 
 
 
