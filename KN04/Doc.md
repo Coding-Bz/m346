@@ -1,6 +1,6 @@
-## KN04: Cloud-init und AWS
+# KN04: Cloud-init und AWS
 
-##A) Cloud-init Datei Verstehen (10%)
+## A) Cloud-init Datei Verstehen (10%)
 
 ```
 #cloud-config
@@ -19,6 +19,11 @@ packages: # Die Packages die installiert werden...
   - wget # Dowload Tool
   - 
 ```
+
+## B) SSH-Key und Cloud-init (15%)
+
+
+
 
     
 
