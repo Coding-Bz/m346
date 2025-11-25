@@ -21,5 +21,5 @@
 ## Kurze Erklärung was Ihre SQL-Abfrage (SELECT-Statement) ausliest.
 
 Die Abfrage zeigt wer von wo eine Abfrage herstellen darf. 
-
+Also kurz zusammengefasst, es zeigt alle user an von wo sie sich eine Abfrage herstellen dürfen. % = bedeutet von überall
 
