@@ -15,8 +15,8 @@ ssh_pwauth: false  # Man kann sich nur mit SSH keys anmelden (Sicherheit)
 disable_root: false  # Root Konto wird nicht deaktviert
 package_update: true # Führt update
 packages: # Die Packages die installiert werden...
-  - curl
-  - wget
+  - curl # Zum übertragen von Dateien via HHTP usw.
+  - wget # Dowload Tool
   - 
 ```
 
