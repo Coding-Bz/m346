@@ -1,0 +1,23 @@
+#cloud-config
+users:
+  - name: ubuntu
+    groups: [users, admin]
+    shell: /bin/bash
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    ssh_authorized_keys:
+      - AAAAB3NzaC1yc2EAAAADAQABAAABAQDL8iMpoqjySiz+ygIk82GMhYw03pYS9wlevYY0tiAV6jcoFrDxOWRitBDbohGP5YkQQqVLaNvfkjHsHnyFeeB6OOL6iBivBFPUAv4cAjDrDy31076ip9Ae0PJQib/WJQ11hQL5cLj9QYLUA7QWx/9/BpVt4/PU1BeWcHK/AzdVbZlkYQZbhhzd+WK+ZXYkHdiEKbYABEea6v2NdSz0Gxt4cCBX0xLHynMRjY9TfiKdVo4iOBB1lizMSm92ey0ccN+WrvV+EL+hQgsEx9YR+
+8NvETJcm5M43/vS6ADMlz6262oOjsvHLUWms3L180FBOxeQSF4yUkcPN9fKtm6mDOR
+- AAAAB3NzaC1yc2EAAAADAQABAAABAQC0WGP1EZykEtv5YGC9nMiPFW3U3DmZNzKF
+O5nEu6uozEHh4jLZzPNHSrfFTuQ2GnRDSt+XbOtTLdcj26+iPNiFoFha42aCIzYj
+t6V8Z+SQ9pzF4jPPzxwXfDdkEWylgoNnZ+4MG1lNFqa8aO7F62tX0Yj5khjC0Bs7
+Mb2cHLx1XZaxJV6qSaulDuBbLYe8QUZXkMc7wmob3PM0kflfolR3LE7LResIHWa4
+j4FL6r5cQmFlDU2BDPpKMFMGUfRSFiUtaWBNXFOWHQBC2+uKmuMPYP4vJC9sBgqM
+vPN/X2KyemqdMvdKXnCfrzadHuSSJYEzD64Cve5Zl9yVvY4AqyBD
+
+aws-key
+ssh_pwauth: false
+disable_root: false
+package_update: true
+packages:
+  - curl
+  - wget
