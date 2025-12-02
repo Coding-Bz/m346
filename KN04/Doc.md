@@ -41,6 +41,20 @@ packages: # Die Packages die installiert werden...
 
 ## C) Template (5%)
 
+Yaml Datei hochgeladen
+
+## D) Installation automatisieren (70%)
+ 
+<img width="945" height="97" alt="image" src="https://github.com/user-attachments/assets/6deb948c-cc46-4697-8444-f74ce0311023" />
+
+<img width="945" height="542" alt="image" src="https://github.com/user-attachments/assets/e3458312-62eb-49e5-841b-8ee0c0cc88ba" />
+
+<img width="945" height="86" alt="image" src="https://github.com/user-attachments/assets/0bda2d4e-3434-4a50-98be-ec99576bb28f" />
+
+<img width="945" height="402" alt="image" src="https://github.com/user-attachments/assets/d9c35dd4-6a34-44c3-8319-f804262ed7e2" />
+
+<img width="945" height="539" alt="image" src="https://github.com/user-attachments/assets/8c7866a5-0e7b-4cc4-b1b1-5ad51f2b66f9" />
+
 
 
     
