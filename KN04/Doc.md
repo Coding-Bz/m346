@@ -57,6 +57,8 @@ Yaml Datei hochgeladen
 
 <img width="2344" height="1266" alt="image" src="https://github.com/user-attachments/assets/2e8c021d-5028-4bdf-bcea-0596014b57a7" />
 
+<img width="2544" height="1590" alt="image" src="https://github.com/user-attachments/assets/9d23463d-0723-48e1-b8a3-0303b0775c14" />
+
 <img width="2484" height="1222" alt="image" src="https://github.com/user-attachments/assets/8fa3e723-3afa-486e-a237-a5223b12caab" />
 
 
