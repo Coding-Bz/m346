@@ -1,10 +1,14 @@
 ## A) Grundbegriffe und private IP wählen (30%)
 
 Erklärung zu den Begriffen VPC, Subnetz, public IP, private IP und static IP wie oben verlangt.
--
--
--
--
+- VPC steht für "Virtual Private Cloud" ist ein isolierter Bereich in einer öffentlichen Cloud. 
+- Subnetze ermöglichen es Netzwerkbereiche voneinander zu isolieren. Dies ist vom grössten
+  Vorteil, wenn betsimmte Bereiche höhere Sicherheitskriterien haben.
+- Die private IP ist für die private Nutzung und werden von IANA nicht im Internet freigegeben.
+  Private IP's können von jederperson genutzt werden.
+- Die öffentliche IP-Adresse ist wie die private eindeutig und wird von der Internetdienstanbieter
+  zugewiesen. Sie dient als Idenfikator und ermöglichen den Zugang zum Internet.
+  
 <img width="945" height="625" alt="image" src="https://github.com/user-attachments/assets/cb179f94-c1e5-4dba-975c-8f005d488abd" />
 
 ** Web-Server: 172.31.80.10
