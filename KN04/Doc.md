@@ -30,6 +30,10 @@ packages: # Die Packages die installiert werden...
 
 <img width="1186" height="128" alt="image" src="https://github.com/user-attachments/assets/f7734a99-acb8-47b6-acdd-92d380ec5f23" />
 
+<img width="2324" height="458" alt="image" src="https://github.com/user-attachments/assets/030dcea6-5083-44ed-8753-5204f9b263e2" />
+
+
+
 ## Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des zweiten Schlüssels.
 
 <img width="1226" height="142" alt="image" src="https://github.com/user-attachments/assets/0f1f8dd5-167c-4de9-9411-6132d07d7991" />
