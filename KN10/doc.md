@@ -53,3 +53,11 @@ Die einzige wirkliche Abweichung ist, dass ich bei vCPUs 2 ausgewählt habe, da 
 ## Abweichungen zur On-Premise-Infrastruktur
 Im Gegensatz zu den vorherigen hier eine viel grössere Abweichung. Das erste Standard-2x fürs Webserver passt perfekt ist auch, was die Kosten angeht in Ordnung, aber bei der DB musste ich Standard-2 wählen da die schwächere Version nur 64 GB Speicher hatte. Also hier waren die Optionen mit Abstand schlechter, meiner Meinung nach, deswegen war beim Entscheiden meine Vorgehensweise: Zu sehen, was meine Voraussetzungen erfüllt.
 
+##  C) Kostenrechnung SAAS - Repurchasing (10%)
+
+<img width="2560" height="1486" alt="image" src="https://github.com/user-attachments/assets/515ba10c-8e17-4de7-ac42-ad31a359793d" />
+
+<img width="945" height="588" alt="image" src="https://github.com/user-attachments/assets/24de183e-b7c8-4592-9140-b49394208c89" />
+
+## D) Interpretation der Resultate (10%)
+
