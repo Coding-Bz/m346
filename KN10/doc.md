@@ -60,7 +60,11 @@ Im Gegensatz zu den vorherigen hier eine viel grössere Abweichung. Das erste St
 Hier hätte ich "Enterprise" ausgewählt, da wir ein Unternehmen sind auch wenn es nur ein Kleinunternehmen ist. Auserdem haben wir verschiedene Vorteile, wie Spezifische Funktionen. Und meiner Meinung nach ist 40 Euro ein ziemlich angmessenes Preis.
 
 <img width="945" height="588" alt="image" src="https://github.com/user-attachments/assets/24de183e-b7c8-4592-9140-b49394208c89" />
+Hier würde ich für
 
 
 ## D) Interpretation der Resultate (10%)
 
+Der Grund, wieso die verschiedenen Unternehmen unterschiedliche Preise haben, ist erstens die Nachfrage. Bekannte Unternehmen stehen oft für bestimmte Merkmale (z. B. Apple für Sicherheit) und können somit höhere Preise verlangen. Es kann auch sein, dass einzelne Unternehmen verschiedene Kosten haben, weil sie mit Drittanbietern (3rd Party) zusammenarbeiten. In unserem Fall ist Azure am teuersten, aber was den Kundensupport angeht, sind sie mit Abstand am besten, weswegen man die hohen Preise begründen kann. Ausserdem sind Security-Tools, IP-Adressen, Support-Verträge und spezielle DB-Features oftmals nicht im Preis enthalten. Es ist auch wichtig zu erwähnen, dass man z. B. bei Variante C (SaaS) pro Benutzer/Lizenz zahlen muss, was ein grosser Unterschied ist.
+
+Was die Migration angeht, hat man bei SaaS am meisten Aufwand. Da es sich nicht um eine klassische Migration handelt, sondern um eine Prozessumstellung. Bei Heroku ist es am einfachsten, da es keine Server zum Aufsetzen gibt. AWS und Azure sind mittelschwer, aber das Gute ist, weil sie so bekannt sind, gibt es sehr viel Dokumentation, was den ganzen Prozess um einiges einfacher macht.
