@@ -41,3 +41,13 @@ Datenbank (DB): Auch bei der Datenbank war mein Ziel, die günstigste Option zu 
 ## Abweichungen zu der On Premise Infrastruktur:
 
 Die einzige wirkliche Abweichung ist, dass ich bei vCPUs 2 ausgewählt habe, da es preislich keinen Unterschied zu 1 vCPUs gemacht hat. Auserdem habe ich mich für MySql entschieden (DB), weil nicht angegeben wurde.
+
+## B) Kostenrechnung PAAS - Replattforming (20%)
+
+ <img width="945" height="40" alt="image" src="https://github.com/user-attachments/assets/2c8ced11-e70d-41f0-8509-9b05d8c46ef8" />
+
+ <img width="945" height="31" alt="image" src="https://github.com/user-attachments/assets/a8ca362a-60e7-432e-ad50-653e71569eed" />
+
+## Abweichungen zur On-Premise-Infrastruktur
+Im Gegensatz zu den vorherigen hier eine viel grössere Abweichung. Das erste Standard-2x fürs Webserver passt perfekt ist auch, was die Kosten angeht in Ordnung, aber bei der DB musste ich Standard-2 wählen da die schwächere Version nur 64 GB Speicher hatte. Also hier waren die Optionen mit Abstand schlechter, meiner Meinung nach, deswegen war beim Entscheiden meine Vorgehensweise: Zu sehen, was meine Voraussetzungen erfüllt.
+
