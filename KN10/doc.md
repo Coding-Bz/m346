@@ -4,13 +4,15 @@
 
 Vorgehensweise bei Microsoft Azure
 Zu Beginn meiner Recherche habe ich analysiert, welche Ressourcen für die Anwendung notwendig sind, um Unter- oder Überkapazitäten zu vermeiden. Hierzu habe ich den Kundensupport von Microsoft Azure kontaktiert, meine Anforderungen erläutert und um einen Vergleich verschiedener Optionen gebeten.
+
 Antwort des Azure-Supports (zusammengefasst): Für die Web-Applikation wird der Azure App Service (Linux) im Basic B1 Plan (1 vCPU, 1,75 GB RAM) für ca. 30 Nutzer empfohlen. Die geschätzten Kosten in der Region „Germany West Central“ liegen bei etwa 45–55 USD pro Monat. Dieser Plan umfasst die verwaltete Runtime, Sicherheits-Patches sowie Monitoring.
 Für die Datenbank wird ein Azure Database for PostgreSQL Flexible Server (1 vCore, 4 GB RAM, 100 GB Speicher) empfohlen. Die monatlichen Kosten belaufen sich auf ca. 55–70 USD. Hierbei sind automatisierte Backups (7 Tage, 4 Wochen, 3 Monate) bereits ohne manuellen Aufwand inkludiert.
 Gesamtkosten Azure: ca. 100–125 USD pro Monat.
 Einschätzung: Meiner Meinung nach ist dies eine sehr gute Option, da die Backups inklusive sind und ohne Skripte oder manuelle Eingriffe verwaltet werden. Langfristig ist diese Lösung wirtschaftlicher, da wir Arbeitsstunden sparen, die sonst für die Serverwartung angefallen wären. Alle Anforderungen an den App Service und die Datenbank werden abgedeckt. Beim Support habe ich mich für den Basic Support entschieden, da dieser für unsere Zwecke ausreicht und zusätzliche Gebühren vermeidet.
 
-Abweichungen zur On-Premise-Infrastruktur
-Im Vergleich zu AWS habe ich hier weniger Abweichungen. Ich habe bei DB diesmal ProstgreSQL gewählt, weil ich nicht weiss, was momentan verwendet wird. Und MySql und PostgreSQL sind beide beliebte Optionen.
+## Abweichungen zur On-Premise-Infrastruktur
+
+Ich habe bei DB diesmal ProstgreSQL gewählt, weil ich nicht weiss, was momentan verwendet wird. Und MySql und PostgreSQL sind beide beliebte Optionen. Auserdem habe ich beim Web-Server nur 1,75GB RAM, da die andere Optioen viel leistungstärker war (viel mehr als wir benötigen) und auserdem auch viel teurer war.
 
 Microsoft Azure Estimate						
 Your Estimate						
@@ -40,11 +42,10 @@ Speicher (Storage): Hier habe ich die Konfiguration so gewählt, dass sie das be
 
 Datenbank (DB): Auch bei der Datenbank war mein Ziel, die günstigste Option zu wählen, die dennoch die geforderte Performance liefert und alle technischen Voraussetzungen erfüllt.
 
-<img width="945" height="437" alt="image" src="https://github.com/user-attachments/assets/7d8ddb56-5149-4293-a760-ef6b2802b813" />
-
-
-						
-						
-						
+<img width="945" height="437" alt="image" src="https://github.com/user-attachments/assets/7d8ddb56-5149-4293-a760-ef6b2802b813" />	
 						
 <img width="3091" height="1073" alt="image" src="https://github.com/user-attachments/assets/b17a15d2-b9ca-4c8e-b9af-ff62f5893c81" />
+
+## Abweichungen zu der On Premise Infrastruktur:
+
+Die einzige wirkliche Abweichung ist, dass ich bei vCPUs 2 ausgewählt habe, da es preislich keinen Unterschied zu 1 vCPUs gemacht hat. Auserdem habe ich mich für MySql entschieden (DB), weil nicht angegeben wurde.
