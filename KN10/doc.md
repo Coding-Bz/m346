@@ -60,7 +60,7 @@ Im Gegensatz zu den vorherigen hier eine viel grössere Abweichung. Das erste St
 Hier hätte ich "Enterprise" ausgewählt, da wir ein Unternehmen sind auch wenn es nur ein Kleinunternehmen ist. Auserdem haben wir verschiedene Vorteile, wie Spezifische Funktionen. Und meiner Meinung nach ist 40 Euro ein ziemlich angmessenes Preis.
 
 <img width="945" height="588" alt="image" src="https://github.com/user-attachments/assets/24de183e-b7c8-4592-9140-b49394208c89" />
-Hier würde ich für
+Hier würde ich für "Pro Suite" gehen, weil es in Verglcih zu den anderen viel mehr Vorteile hat. Aber wegen dem hohen Preis und weil man hier pro Benutzer ein Lizenz zahlen muss, würde es am meisten Sinn machen zwei Personen zu wählen die sich damit beschäftigen.
 
 
 ## D) Interpretation der Resultate (10%)
