@@ -57,7 +57,10 @@ Im Gegensatz zu den vorherigen hier eine viel grössere Abweichung. Das erste St
 
 <img width="2560" height="1486" alt="image" src="https://github.com/user-attachments/assets/515ba10c-8e17-4de7-ac42-ad31a359793d" />
 
+Hier hätte ich "Enterprise" ausgewählt, da wir ein Unternehmen sind auch wenn es nur ein Kleinunternehmen ist. Auserdem haben wir verschiedene Vorteile, wie Spezifische Funktionen. Und meiner Meinung nach ist 40 Euro ein ziemlich angmessenes Preis.
+
 <img width="945" height="588" alt="image" src="https://github.com/user-attachments/assets/24de183e-b7c8-4592-9140-b49394208c89" />
+
 
 ## D) Interpretation der Resultate (10%)
 
