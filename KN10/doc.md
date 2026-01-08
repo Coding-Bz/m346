@@ -14,16 +14,8 @@ Einschätzung: Meiner Meinung nach ist dies eine sehr gute Option, da die Backup
 
 Ich habe bei DB diesmal ProstgreSQL gewählt, weil ich nicht weiss, was momentan verwendet wird. Und MySql und PostgreSQL sind beide beliebte Optionen. Auserdem habe ich beim Web-Server nur 1,75GB RAM, da die andere Optioen viel leistungstärker war (viel mehr als wir benötigen) und auserdem auch viel teurer war.
 
-Microsoft Azure Estimate						
-Your Estimate						
-Service category	Service type	Custom name	Region	Description	Estimated monthly cost	Estimated upfront cost
-Compute	App Service		Germany West Central	Basic Tier; 1 B1 (1 Core(s), 1.75 GB RAM, 10 GB Storage) x 730 Hours; Windows OS; 0 SNI SSL Connections; 0 IP SSL Connections; 0 Custom Domains; 0 Standard SLL Certificates; 0 Wildcard SSL Certificates	CHF43.22	CHF0.00
-Databases	Azure Database for MySQL		Germany West Central	Flexible Server Deployment, Business Critical Tier, 1 E2DS v4 (2 vCores) x 730 Hours, 100 GB Storage with ZRS redundancy, 0 million Paid IO, 0 GB Additional Backup storage with LRS, without High availability	CHF175.50	CHF0.00
-Support			Support		CHF78.94	CHF0.00
-			Licensing Program	Microsoft Customer Agreement (MCA)		
-			Billing Account			
-			Billing Profile			
-			Total		CHF297.65	CHF0.00
+<img width="2518" height="890" alt="image" src="https://github.com/user-attachments/assets/1ca4b22d-dbab-47c6-92de-105d5c9446b8" />
+
 						
 ## Vorgehensweise bei AWS
 Bei AWS gab es eine grössere Auswahl an Optionen, weshalb ich zunächst verschiedene Instanztypen verglichen habe.
