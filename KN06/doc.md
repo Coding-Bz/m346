@@ -9,13 +9,27 @@
 
 1) Istanz muss heruntergefahren werden
 
-   <img width="2558" height="1446" alt="image" src="https://github.com/user-attachments/assets/daf7f704-869b-49f5-946f-96741886357e" />
+<img width="2558" height="1418" alt="image" src="https://github.com/user-attachments/assets/db1958ed-e99d-4fa1-9f7f-397cbacf0cf8" />
 
-   <img width="2524" height="1518" alt="image" src="https://github.com/user-attachments/assets/288a84b0-e3e4-4091-a998-6300c8220d4b" />
+<img width="2560" height="1468" alt="image" src="https://github.com/user-attachments/assets/3be9428e-c924-48d0-8a55-b80c6f22221f" />
 
-   <img width="2472" height="1546" alt="image" src="https://github.com/user-attachments/assets/0a23fbd3-35d1-4c96-8deb-0e99f9b3a713" />
+<img width="2558" height="1468" alt="image" src="https://github.com/user-attachments/assets/55eb48e9-7e24-4d6c-9b07-3ab59b3b1e51" />
 
-   ## C) Horizontale Skalierung (20%)
+<img width="2558" height="1218" alt="image" src="https://github.com/user-attachments/assets/91a01646-4ab8-4d10-b214-068816849edb" />
+
+## C) Horizontale Skalierung (20%)
+
+<img width="2558" height="1462" alt="image" src="https://github.com/user-attachments/assets/110b9b2a-357e-4cd9-86f7-9dab625f989f" />
+
+<img width="2560" height="1584" alt="image" src="https://github.com/user-attachments/assets/24286048-9dc4-4716-b8e2-18c5991789b0" />
+
+## D) Auto Scaling (20%)
+
+
+
+
+
+   
 
    
 
