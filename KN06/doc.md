@@ -1,6 +1,9 @@
 ## A) Installation App (50%)
 
-<img width="2560" height="1582" alt="image" src="https://github.com/user-attachments/assets/bee6668b-eb98-48f1-a301-b87ea6ee7126" />
+<img width="2560" height="1598" alt="image" src="https://github.com/user-attachments/assets/9c5e8937-6aa7-4993-8dbf-7a15d2636e94" />
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/cb3c7f5a-c2d2-4afa-95e6-4ad065f6407a" />
+
 
 ## B) Vertikale Skalierung  (10%)
 
