@@ -25,6 +25,8 @@
 
 ## D) Auto Scaling (20%)
 
+<img width="2560" height="1460" alt="image" src="https://github.com/user-attachments/assets/580460d4-0a5f-4897-a2a7-8a02857a45e5" />
+
 
 
 
