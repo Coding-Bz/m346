@@ -4,11 +4,19 @@
 
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/cb3c7f5a-c2d2-4afa-95e6-4ad065f6407a" />
 
+<img width="766" height="342" alt="image" src="https://github.com/user-attachments/assets/38a6a8ae-86b8-473f-a48d-f408b1e7a444" />
+
 Reverse Proxy:
 
 Ein Reverse Proxy steht zwischen dem User und dem Server. Der Reverse Proxy regelt die Sicherheit und die Kommunikation. Er entscheidet, mit welchem Server der User kommuniziert.
 
-<img width="766" height="342" alt="image" src="https://github.com/user-attachments/assets/38a6a8ae-86b8-473f-a48d-f408b1e7a444" />
+Welche(r) Teil(e) macht/machen hier überhaupt keinen Sinn in einer produktiven Umgebung?
+
+Es gibt viele Teile die keinen Sinn machen oder ziemlich riskant sind. 
+
+-DB von überall erreichbar.
+-Passwort, Username und Cluster-URL ersichtlich
+-HTTP und nicht HTTP(SECURE)
 
 
 ## B) Vertikale Skalierung  (10%)
