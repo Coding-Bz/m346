@@ -4,6 +4,10 @@
 
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/cb3c7f5a-c2d2-4afa-95e6-4ad065f6407a" />
 
+<img width="2470" height="1300" alt="image" src="https://github.com/user-attachments/assets/288b6970-de05-4847-b55c-34a677c9c93f" />
+
+<img width="2558" height="1370" alt="image" src="https://github.com/user-attachments/assets/7eda0c6a-7074-4d8e-8796-a57c0f56bc0b" />
+
 <img width="766" height="342" alt="image" src="https://github.com/user-attachments/assets/38a6a8ae-86b8-473f-a48d-f408b1e7a444" />
 
 Reverse Proxy:
