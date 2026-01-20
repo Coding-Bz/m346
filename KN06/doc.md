@@ -4,6 +4,12 @@
 
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/cb3c7f5a-c2d2-4afa-95e6-4ad065f6407a" />
 
+Reverse Proxy:
+
+Ein Reverse Proxy steht zwischen dem User und dem Server. Der Reverse Proxy regelt die Sicherheit und die Kommunikation. Er entscheidet, mit welchem Server der User kommuniziert.
+
+<img width="766" height="342" alt="image" src="https://github.com/user-attachments/assets/38a6a8ae-86b8-473f-a48d-f408b1e7a444" />
+
 
 ## B) Vertikale Skalierung  (10%)
 
@@ -17,11 +23,15 @@
 
 <img width="2558" height="1218" alt="image" src="https://github.com/user-attachments/assets/91a01646-4ab8-4d10-b214-068816849edb" />
 
+Nein, dies geht nicht im laufenden Betrieb.Zuerst Instanz stoppen !
+
 ## C) Horizontale Skalierung (20%)
 
 <img width="2558" height="1462" alt="image" src="https://github.com/user-attachments/assets/110b9b2a-357e-4cd9-86f7-9dab625f989f" />
 
 <img width="2560" height="1584" alt="image" src="https://github.com/user-attachments/assets/24286048-9dc4-4716-b8e2-18c5991789b0" />
+
+Erklärungen zum DNS: DNS steht für Domain-Name-System und sorgt dafür, dass wir User Websites mit dem DMN erreichen können und nicht die IP-Adresse kennen müssen. Google.com
 
 ## D) Auto Scaling (20%)
 
