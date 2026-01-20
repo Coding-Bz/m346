@@ -14,9 +14,9 @@ Welche(r) Teil(e) macht/machen hier überhaupt keinen Sinn in einer produktiven 
 
 Es gibt viele Teile die keinen Sinn machen oder ziemlich riskant sind. 
 
--DB von überall erreichbar.
--Passwort, Username und Cluster-URL ersichtlich
--HTTP und nicht HTTP(SECURE)
+** DB von überall erreichbar.
+** Passwort, Username und Cluster-URL ersichtlich
+** HTTP und nicht HTTP(SECURE)
 
 
 ## B) Vertikale Skalierung  (10%)
